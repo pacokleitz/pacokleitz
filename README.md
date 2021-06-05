@@ -1,16 +1,16 @@
-### Hi there 👋
 
-<!--
-**pacokleitz/pacokleitz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Currently working on:
+Name | Description | Stack
+:-:|:-:|:-:
+Duckcoin | Simple proof of work blockchain | Rust
+Strugl | Privacy-conscious social network | Go / Next.js
 
-Here are some ideas to get you started:
+[DO NOT CLICK HERE](https://pacokleitz.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+❤️
+|:-:|
+Rust
+IOTA
+Go
+Next.js
+Docker
